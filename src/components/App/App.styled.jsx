@@ -12,8 +12,8 @@ export const FormTitle = styled.h1`
 	font-weight: 24px;
 	color: #e5f1ff;
 `;
-
 export const ContactsTitle = styled.h2`
 	color: #131a35;
 	margin: 10px 0px;
 `;
+
